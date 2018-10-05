@@ -1,0 +1,228 @@
+@charset "utf-8";
+/* CSS Document */
+* 				{		font-family: arial;te}
+body 			{
+	max-width: none;background:#EDEFF6;}
+
+
+header,inscription,div {display: block};
+header 			{
+						background-color: #3C5B9A;
+						width: 1390px;
+						height: 145px;
+						margin-top: -14px;
+						margin-right: -14px;
+						margin-left: -14px;
+						margin-bottom: -14px;
+				}	
+
+img 			{
+	position: relative;
+	top: -129px;
+				}
+
+#add			{
+	position: relative;
+	top: -342px;
+	right: -425px;
+	color: #F7F2F2;
+				}
+#addresse			{
+	position: relative;
+	top: -342px;
+	right: -830px;
+	color: #000000;
+	width: 198px;
+	height: 25px;
+	border: #3E3E3E
+   
+				}
+#pass			{
+	position: relative;
+	top: -342px;
+	right: -753px;
+	color: #000000;
+	width: 198px;
+	height: 25px;
+	border: #3E3E3E
+				}
+#passw          {
+	position: relative;
+	top: -365px;
+	right: -854px;
+	color: #F7F2F2;
+				}
+tete 			{
+	position: relative;
+	right: 137px;
+}
+.cmp 			{
+	position: relative;
+	top: -346px;
+	text-align: right;
+	color: #C3BFFC;
+	left: -103px;
+				}
+button 			{
+	position: relative;
+	top: -343px;
+	right: -832px;
+	color: #F7F2F2;
+	background: #4267b2;
+	width: 93px;
+	height: 29px;
+	border: 1px solid #494545
+				}
+
+big			{
+	color: #393737;
+	position: relative;
+	right: -756px;
+	top: 17px;
+}
+.grat {
+	color: #393737;
+	position: relative;
+	text-align: right;
+	top: -44px;
+	left: -317px;
+}
+
+#prenom 	{
+	position: relative;
+	top: -41px;
+	left: 759px;
+	width: 200px;
+	height: 43px;
+	border-radius: 5px;
+	border: 1px solid #5B5B5B;
+	font-size: 20px
+	}
+
+#nom 	{
+	position: relative;
+	top: -41px;
+	left: 778px;
+	width: 200px;
+	height: 43px;
+	border-radius: 5px;
+	border: 1px solid #5B5B5B;
+	font-size: 20px
+	}
+
+#numero 	{
+	position: relative;
+	top: -26px;
+	left: 759px;
+	width: 425px;
+	height: 43px;
+	border-radius: 5px;
+	border: 1px solid #5B5B5B;
+	font-size: 20px
+	}
+#nmp	{
+	position: relative;
+	top: -27px;
+	left: 759px;
+	width: 425px;
+	height: 43px;
+	border-radius: 5px;
+	border: 1px solid #5B5B5B;
+	font-size: 20px
+	}
+#dat		{
+	text-align: center;
+	position: relative;
+	left: 757px;
+	top: -41px;
+}
+#date		{
+	position: relative;
+	top: -57px;
+	left: 759px;
+	width: 359px;
+	height: 228px;
+
+}
+
+h5 			{
+	text-align: right;
+	position: relative;
+	top: 76x;
+	bottom: 118px;
+	left: -92px;
+	color: #3C5B9A
+}
+po    		{
+	position: relative;
+	top: -232px;
+	right: -753px;
+}
+.homme   	{
+	position: relative;
+	right: -55px
+}
+.im {
+	position: relative;
+	top: -357px;
+	left: -189px;
+	width: 531px;
+}
+h2 			{
+	position: relative;
+	top: -752px;
+	left: 51px;
+	color: 
+#3A3A3A}
+
+
+
+
+
+
+
+#day {
+	left: 759px;
+	width: 84px;
+	height: 43px;
+	border-radius: 5px;
+	border: 1px solid #5B5B5B;
+	font-size: 20px
+}
+
+#month {
+	left: 759px;
+	width: 86px;
+	height: 43px;
+	border-radius: 5px;
+	border: 1px solid #5B5B5B;
+	font-size: 20px
+}
+
+#year {
+	left: 759px;
+	width: 102px;
+	height: 43px;
+	border-radius: 5px;
+	border: 1px solid #5B5B5B;
+	font-size: 20px
+}
+
+#pourkw {
+	text-align: right;
+	position: relative;
+	right: 88px
+}
+
+#inscription {
+	width: 216px;
+	height: 50px;
+	background: #208F31;
+	font-size: 23px;
+	position: relative;
+	top: -176px;
+	left: 64px;
+	border-radius: 5px;
+	border: 1px solid #272727;
+}
+
